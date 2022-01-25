@@ -1,0 +1,68 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+body {
+    background-color: blueviolet;
+}
+h1 {
+    font-size: 4rem;
+    text-align: center;
+    font-family: cursive;
+    font-weight: bolder;
+    color: rgb(155, 34, 58);
+    padding-top: 2rem;
+}
+.box {
+    width: 30vh;
+    height:30vh ;
+    border: 2px solid blanchedalmond;
+    justify-items: center;
+    align-items: center;
+    margin-right: 1.5rem;
+    text-align: center;
+    font-size: 3rem;
+    font-family: fantasy;
+    color: rgb(189, 189, 78);
+    padding-top: 3rem;
+    border-radius: 1.5rem;
+    box-shadow: 2px 2px cornsilk;
+    
+   
+}
+.container {
+     display: inline-flex;
+    justify-content: center;
+    margin:8rem 8rem;
+    
+}
+.first {
+    background-image: url(./images/cat.jpeg);
+    background-position: center;
+    background-size: cover;
+
+}
+.second {
+    background-image: url(./images/dog.jpeg);
+    background-position: center;
+    background-size: cover;
+
+}
+.third {
+    background-image: url(./images/ele.jpeg);
+    background-position: center;
+    background-size: cover;
+
+}
+.fourth {
+    background-image: url(./images/tiger.jpeg);
+    background-position: center;
+    background-size: cover;
+
+}
+.fifth {
+    background-image: url(./images/lion.jpeg);
+    background-position: center;
+    background-size: cover;
+
+}
